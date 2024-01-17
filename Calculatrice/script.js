@@ -4,6 +4,7 @@ let firstOperand = null;
 
 function updateResult() {
     document.getElementById('result').value = currentResult;
+    
 }
 
 function clearResult() {
